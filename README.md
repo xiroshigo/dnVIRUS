@@ -8,7 +8,7 @@ $ pkg install git
 
 $ pkg install python
 
-$ git clone https://github.com/darknetUzb/dnVIRUS/tree/main
+$ git clone https://github.com/darknetUzb/dnVIRUS
 
 $ cd dnVIRUS
 
