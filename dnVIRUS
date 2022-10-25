@@ -9,7 +9,7 @@ def clearscreen():
 		os.system("clear")
 
 clearscreen()
-os.system("termux-open-url https://t.me/termux_private")
+os.system("termux-open-url https://t.me/darknet_off1cial")
 
 darknet = input("""\033[1;35m
 ┈██▒┈┈┈█▓┈██▓┈┈██▀███┈┈┈█┈┈┈┈██┈┈┈██████┈┈            
